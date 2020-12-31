@@ -1,6 +1,5 @@
 #Mijash Ghimire Code
-#Lab 7
-#Cs 161
+#Student Western Oregon University
 #2/26/2020
 
 def print_data_point():
